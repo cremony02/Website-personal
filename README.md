@@ -1,2 +1,2 @@
-# Website-personal
-WEB
+# WebSekolah
+WEB Sekolah (Design HTML &amp; CSS)
